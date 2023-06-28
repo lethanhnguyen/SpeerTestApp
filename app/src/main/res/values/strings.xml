@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpeerTest</string>
+    <string name="error_api_message">Cannot get data from api</string>
+    <string name="list_empty">Not found</string>
+</resources>
